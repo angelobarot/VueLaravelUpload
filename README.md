@@ -1,11 +1,11 @@
-#VueLaravelUpload
+# VueLaravelUpload
 ---
-####Upload documents using Vue + Axios + Laravel
+#### Upload documents using Vue + Axios + Laravel
 ---
-######Requirements
+###### Requirements
 - PHP >= 7.1
 ---
-######Guide
+###### Guide
 - composer install in root folder
 - npm install in root folder
 - npm run watch
